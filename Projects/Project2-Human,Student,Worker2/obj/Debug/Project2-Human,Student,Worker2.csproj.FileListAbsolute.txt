@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\bin\Debug\Project2-Human,Student,Worker2.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\bin\Debug\Project2-Human,Student,Worker2.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\bin\Debug\Project2-Human,Student,Worker2.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\obj\Debug\Project2-Human,Student,Worker2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\obj\Debug\Project2-Human,Student,Worker2.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\Project2-Human,Student,Worker2\obj\Debug\Project2-Human,Student,Worker2.pdb

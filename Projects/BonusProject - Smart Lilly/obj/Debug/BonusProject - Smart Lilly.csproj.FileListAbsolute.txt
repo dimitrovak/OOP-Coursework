@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\bin\Debug\BonusProject - Smart Lilly.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\bin\Debug\BonusProject - Smart Lilly.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\bin\Debug\BonusProject - Smart Lilly.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\obj\Debug\BonusProject - Smart Lilly.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\obj\Debug\BonusProject - Smart Lilly.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\OOP-533IMZ-KristinDimitrova-IST-Project1\Project1\BonusProject - Smart Lilly\obj\Debug\BonusProject - Smart Lilly.pdb
